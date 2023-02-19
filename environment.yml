@@ -16,7 +16,6 @@ dependencies:
   - r-dplyr
   - r-htmlTable
   - r-ggpubr
-  - r-remotes
   - pip:
     - rpy2==3.5.7
 
