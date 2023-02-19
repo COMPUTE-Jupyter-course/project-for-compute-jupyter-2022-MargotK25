@@ -16,6 +16,11 @@ dependencies:
   - r-dplyr
   - r-htmlTable
   - r-ggpubr
+  - r-terra
+  - r-rgeos
+  - r-ncdf4
+  - r-units
+  - r-raster
   - pip:
     - rpy2==3.5.7
 
