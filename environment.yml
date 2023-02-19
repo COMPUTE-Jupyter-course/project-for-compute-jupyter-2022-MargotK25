@@ -17,7 +17,6 @@ dependencies:
   - r-htmlTable
   - r-ggpubr
   - r-remotes
-    - https://github.com/MikkoVihtakari/ggOceanMaps
   - pip:
     - rpy2==3.5.7
 
