@@ -12,7 +12,6 @@ dependencies:
   - python=3.10.8
   - r=4.1
   - r-base=4.1.3
-  - rtools
   - pip:
     - rpy2==3.5.7
 
