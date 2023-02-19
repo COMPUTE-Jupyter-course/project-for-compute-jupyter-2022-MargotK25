@@ -18,5 +18,5 @@ dependencies:
   - r-ggpubr
   - pip:
     - rpy2==3.5.7
-    - r-https://github.com/MikkoVihtakari/ggOceanMaps
+    - https://github.com/MikkoVihtakari/ggOceanMaps
 
