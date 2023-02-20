@@ -21,6 +21,13 @@ dependencies:
   - r-ncdf4
   - r-units
   - r-raster
+  - r-rgdal
+  - r-rosm
+  - r-lwgeom
+  - r-ggspatial
+  - r-sf
+  - r-starts
+  - r-smoothr 
   - pip:
     - rpy2==3.5.7
 
