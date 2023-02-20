@@ -27,7 +27,6 @@ dependencies:
   - r-ggspatial
   - r-sf
   - r-stars
-  - r-smoothr 
   - pip:
     - rpy2==3.5.7
 
