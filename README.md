@@ -1,4 +1,12 @@
-How to run the Jupyter Notebook 
+**How to run the Jupyter Notebook**
+
+**Option 1: Binder**
+
+View this Jupyter Notebook through Binder. Just copy the link below in your preferred Internet browser and run the .ipynb file. Note that the instructions about how to run the Jupyter Notebook and how to set the home directory of R are only relevant if you want to run a downloaded copy (see option 2).
+https://mybinder.org/v2/gh/COMPUTE-Jupyter-course/project-for-compute-jupyter-2022-MargotK25/HEAD
+
+
+**Option 2: Download and run (instructions for Windows)**
 
 Download the Jupyter Notebook file (FLUXNET_LPJGUESS.ipynb), the .yml file (environment.yml) and the required data (Jupyter_FLUXNET_LPJGUESS.RData and msnowdepth.out).
 
