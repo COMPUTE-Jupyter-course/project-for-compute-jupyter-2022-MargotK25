@@ -1,9 +1,10 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/COMPUTE-Jupyter-course/project-for-compute-jupyter-2022-MargotK25.git/HEAD)
+
 **How to run the Jupyter Notebook**
 
 **Option 1: Binder**
 
-View this Jupyter Notebook through Binder. Just copy the link below in your preferred Internet browser and run the .ipynb file. Note that the instructions about how to run the Jupyter Notebook and how to set the home directory of R are only relevant if you want to run a downloaded copy (see option 2).
-https://mybinder.org/v2/gh/COMPUTE-Jupyter-course/project-for-compute-jupyter-2022-MargotK25/HEAD
+View this Jupyter Notebook through Binder. Just click on the Binder badge and run the Jupyter Notebook. Note that the instructions about how to run the Jupyter Notebook and how to set the home directory of R are only relevant if you want to run a downloaded copy (see option 2).
 
 
 **Option 2: Download and run (instructions for Windows)**
