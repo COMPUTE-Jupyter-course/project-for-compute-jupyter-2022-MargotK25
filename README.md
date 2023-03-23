@@ -22,3 +22,10 @@ Next activate the new environment by running:  conda activate FLUXNET_LPJGUESS
 Open Jupyter notebook by running:  jupyter notebook 
 
 Some Python modules need to be imported and various R packages have to be installed. For further instructions, see the Jupyter Notebook file.
+
+
+**Data reference**
+
+The evaluation data was taken from the FLUXNET2015 dataset: 
+
+Pastorello, G., Trotta, C., Canfora, E. et al. The FLUXNET2015 dataset and the ONEFlux processing pipeline for eddy covariance data. Sci Data 7, 225 (2020). https://doi.org/10.1038/s41597-020-0534-3
