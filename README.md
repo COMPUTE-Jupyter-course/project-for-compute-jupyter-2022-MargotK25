@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/COMPUTE-Jupyter-course/project-for-compute-jupyter-2022-MargotK25.git/HEAD)
+[![DOI](https://zenodo.org/badge/594070466.svg)](https://zenodo.org/badge/latestdoi/594070466)
 
 **How to run the Jupyter Notebook**
 
